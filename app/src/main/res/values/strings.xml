@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StudyAndroid</string>
+    <string name="find_beer">Find Beer!</string>
+    <string name="brands"></string>
+    <string-array name="beers">
+        <item>Black</item>
+        <item>Light</item>
+        <item>Brown</item>
+        <item>Amber</item>
+    </string-array>
+</resources>
